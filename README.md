@@ -10,7 +10,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Usage
 
-The contract provides an interface (`IERC20`) and an implementation (`ERC20`) for an ERC20 token. 
+The contract provides an implementation (`ERC20`) for an ERC20 token. 
 
 ### Prerequisites
 
